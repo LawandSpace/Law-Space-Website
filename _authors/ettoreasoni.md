@@ -3,7 +3,7 @@ title:          Ettore Asoni
 username:       "Ettore Asoni"
 featured:       true
 image:          /uploads/profilepics/ettoreasoni.jpg
-bio:            Ph.D. student at the University of Victoria.
+bio:            
 email:          
 website:        
 twitter:        
