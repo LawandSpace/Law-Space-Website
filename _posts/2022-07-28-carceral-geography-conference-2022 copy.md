@@ -2,7 +2,7 @@
 title: Join the Next Carceral Geography Conference in December 2022
 image: /uploads/carceralimg.jpg
 categories: [conferences]
-tag: 
+tag: [featured, spotlight]
 author: ["Austin Kocher", "Alida Cantor", "Carly Griffith"]
 ---
 
