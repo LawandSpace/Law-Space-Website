@@ -1,5 +1,5 @@
 ---
-title: Review of "Legal Geography-Comparative Law and the Production of Space" by Matteo Nicolini
+title: Review of “Legal Geography-Comparative Law and the Production of Space” by Matteo Nicolini
 image: /uploads/2023-02-06-bookreview/legalgeographycover.jpg
 categories: [book review]
 tag: [featured]
