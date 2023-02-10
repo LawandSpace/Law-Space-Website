@@ -8,8 +8,12 @@
 
 <div class="uk-container uk-margin-medium-bottom uk-text-center">
   <div class="uk-child-width-1-2@s uk-child-width-expand@l uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
-    {% for author in site.authors %}
+    {% for author in site.authors limit: 3 %}
       {% include content-author.html %}
     {% endfor %}
+  </div>
+
+  <div class="uk-margin-medium uk-text-center">
+    <a class="hvr-forward" href="/authors/">{{ include.more | default: 'All Authors' }} &rarr;</a>
   </div>
 </div>

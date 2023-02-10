@@ -1,0 +1,24 @@
+---
+layout: default
+
+---
+
+<div class="uk-container uk-margin-large uk-container-xsmall uk-text-center">
+  <article class="uk-article">
+  
+    <h1 class="uk-article-title uk-margin-medium-bottom">Drafts</h1>
+  
+    <div class="content-primary">
+      {% for draft in site.drafts reversed %}
+      <ol type="1">
+        <li>
+        <a style="color: blue;" href="{{ draft.url | relative_url }}">{{ draft.title }}</a>
+      </li>
+      </ol>
+      {% endfor %}    
+    </div>
+  
+  </article>
+  </div>
+
+

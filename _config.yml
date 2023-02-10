@@ -94,6 +94,9 @@ collections:
     output: true
   category:
     output: true
+  drafts:
+    output: true
+    
 
 # Defaults
 defaults:
@@ -118,9 +121,18 @@ defaults:
       type: authors
     values:
       layout: author
+  #draft
+  - scope:
+      path: ""
+      type: drafts
+    values:
+      layout: post
+      share: true
+      related: true
   # _category
   - scope:
       path: ""
       type: category
     values:
       layout: category
+
