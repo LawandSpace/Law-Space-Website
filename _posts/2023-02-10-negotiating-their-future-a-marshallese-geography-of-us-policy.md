@@ -3,7 +3,7 @@ title: "Negotiating Their Future: A Marshallese Geography of U.S. Policy"
 image: /uploads/2023-02-11/negotiating-their-future-a-marshallese-geography-of-us-policy.JPG
 categories: [articles]
 tag: [featured]
-author: ["Meagan Harden", "Brittany Lauren Wheeler"]
+author: ["Brittany Lauren Wheeler", "Meagan Harden"]
 ---
 
 [Bilateral negotiations](https://www.manilatimes.net/2023/01/15/news/world/us-to-ink-fresh-deals-with-marshalls-palau/1874303) to amend the [Compact of Free Association](https://www.doi.gov/oia/about/compact) (COFA) between the Republic of the Marshall Islands (RMI) and the United States are currently [underway](https://www.civilbeat.org/?p=1534770). While frequently framed in terms of U.S geopolitics of the Pacific, we share lesser-known legal outcomes of the [ongoing relationship](https://www.jstage.jst.go.jp/article/jdr/17/3/17_335/_pdf) between the RMI and the U.S.
