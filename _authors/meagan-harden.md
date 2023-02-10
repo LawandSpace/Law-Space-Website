@@ -2,7 +2,7 @@
 title:          Meagan Harden
 username:       "Meagan Harden"
 featured:       false
-image:          /uploads/profilepics/megan-harden.jpeg
+image:          /uploads/profilepics/megan-harden.jpg
 linkedin:       https://www.linkedin.com/in/meagan-harden-08456a120/
 twitter:        https://twitter.com/meaganharden_
 ---
