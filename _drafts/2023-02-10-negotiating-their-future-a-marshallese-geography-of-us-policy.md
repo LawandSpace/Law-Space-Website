@@ -32,7 +32,7 @@ On a more local level, particular employers of large numbers of Marshallese, suc
 
 ## Education
 
-Education has long been a motivating factor for why Marshallese migrate to the U.S., and is projected to be an increasingly common one in the future, [according to recent surveys](https://static1.squarespace.com/static/596d5a162e69cf240a0f043b/t/5f467533693e5f6ebae88c1c/1598453060819/marshall-islands-case-study-report-web-v5_compressed.pdf) conducted with Marshallese participants in Hawai'i and the Pacific Northwest.
+Education has long been a motivating factor for why Marshallese migrate to the U.S., and is projected to be an increasingly common one in the future, [according to recent surveys](https://static1.squarespace.com/static/596d5a162e69cf240a0f043b/t/5f467533693e5f6ebae88c1c/1598453060819/marshall-islands-case-study-report-web-v5_compressed.pdf) conducted with Marshallese participants in Hawaiʻi and the Pacific Northwest.
 
 Despite the Compact offering some financial lifelines to complete higher education (such as Pell Grants, which can be used in Micronesia or the U.S.), the Marshallese remain "[ineligible for certain loans, making college very difficult to afford](https://surface.syr.edu/cgi/viewcontent.cgi?article=1645&context=etd)."  Further, "[absent changes to current law](https://www.gao.gov/assets/700/692707.pdf)" (which could be announced when the Compact's renegotiation is finalized) the Marshallese will no longer be eligible for certain educational grants.
 
