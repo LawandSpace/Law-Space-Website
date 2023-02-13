@@ -1,6 +1,6 @@
 ---
 title: "Negotiating Their Future: A Marshallese Geography of U.S. Policy"
-image: /uploads/2023-02-11/negotiating-their-future-a-marshallese-geography-of-us-policy.JPG
+image: /uploads/2023-02-13/negotiating-their-future-a-marshallese-geography-of-us-policy.JPG
 categories: [articles]
 tag: [featured]
 author: ["Brittany Lauren Wheeler", "Meagan Harden"]
