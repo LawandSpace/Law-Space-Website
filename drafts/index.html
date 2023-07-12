@@ -9,13 +9,15 @@ layout: default
     <h1 class="uk-article-title uk-margin-medium-bottom">Drafts</h1>
   
     <div class="content-primary">
-      {% for draft in site.drafts reversed %}
       <ol type="1">
+
+      {% for draft in site.drafts reversed %}
         <li>
         <a style="color: blue;" href="{{ draft.url | relative_url }}">{{ draft.title }}</a>
       </li>
-      </ol>
       {% endfor %}    
+    </ol>
+
     </div>
   
   </article>

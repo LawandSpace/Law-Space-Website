@@ -1,0 +1,86 @@
+---
+title: First Annual Critical Legal Geography Conference
+image: 
+categories: [conferences]
+tag: 
+author: "Austin Kocher"  
+description: (Torino, Italy, 21-23 February 2024)
+---
+
+## Call for Proposals/Sessions
+The first critical legal geography conference brings together transdisciplinary scholars to discuss the mutual constitution of space and law, broadly conceived. The conference in February 2024 (in Turin, Italy) will be the first of a series of annual meetings on critical legal geography.
+
+This open call intends to create a wide space for application and interpretation of critical legal geography. We do not intend to be prescriptive concerning its method, theory, object, or approach. The conference will be an inclusive and dialogical meeting, with a relaxed discussion and exchange of ideas.
+
+Those interested in participating have two options: 
+
+One is to respond to one or more keywords below by submitting a reflection of not more than 500 words (alternatively, also traditional abstracts are also accepted). Name(s), affiliation(s), and short bio(s) (maximum 200 words) of the authors must be included as well.
+
+The second option is to self-organise and propose a thematic session. In this case, you must submit a broad overview of the session, together with the titles of the contributions (minimum 3, maximum 4), names, affiliations, and short bios of the participants. In the spirit of dialogue and flexibility, if we receive a proposal that better suits a proposed thematic suggestion, we may ask you to make space for the additional presentation.
+
+#### Keywords for reflection:
+
+- energy and extraction
+- (post)(neo)(settler)colonialism
+- the global/the local
+- method
+- anthropocene
+- climate change
+- future spaces
+- digital and platform spaces
+- cities/urban
+- the rural
+- more-than-human legal geographies
+- blue legalities
+- infrastructures
+- property
+- land use 
+- housing
+- migration
+- informality/illegality
+
+#### Deadlines
+Please send reflections on the keywords or a panel proposal to <giulia.massenz@polito.it> and <francesco.chiodelli@unito.it>  by 15 October 2023. We will respond to all submissions by 15 November 2023.
+
+__Date:__ 21-13 February 2024 
+__Venue:__ Turin ([Castello del Valentino](https://castellodelvalentino.polito.it/?lang=en)), Italy 
+
+No conference fee is requested. Unfortunately, we are not able to offer travel grants to help cover the cost of attending the conference.
+
+_Steering Group_
+
+Francesco Chiodelli (University of Turin); Daniela Morpurgo (Polytechnic University of Turin); Giulia Massenz (Polytechnic University of Turin); Giacomo Pettenati (University of Eastern Piedmont); Voltaire Alvarado (University of Concepción); Tugba Basaran (University of Cambridge); Hadeel Abu Hussein (University of Oxford); Alexandre (Sandy) Kedar (University of Haifa); Austin Kocher (Syracuse University); Gail Lythgoe (University of Edinburgh); Elya Milner (Technical University of Berlin); Matteo Nicolini (University of Verona); Andrea Pavoni (University of Lisbon).
+
+_The conference is supported by:_
+
+[DIST](https://www.dist.polito.it/en/) - Interuniversity Department, of Regional and Urban Studies and Planning, the Polytechnic of Turin, and University of Turin.
+
+[FULL](https://full.polito.it/) - Future Urban Legacy Lab of the Polytechnic of Turin
+
+## PhD Workshop "Explorations in Critical Legal Geographies"
+
+The workshop brings together 15 PhD students with a variety of backgrounds (legal, geographical, political, sociological, anthropological, urban studies, and so on), whose doctoral thesis speaks back to critical legal-geographical debate. The workshop offers participants a forum of discussion to contribute to their education through a crossdisciplinary approach and to create synergies across the legal-geographical spectrum.
+
+#### Themes and rationale
+
+This workshop is conceived as a meeting to reflect on the methodologies, discourses, theories, and practices characterising the legal-geographical entanglement. This workshop is an integral part of the First Annual Critical Legal Geography Conference; therefore, all the participants selected for the workshop are also encouraged to submit to (or take part in) the conference. 
+
+The aim of the workshop is to explore the main topics of the conference (as listed above) by focusing on the research methodologies and design. The workshop is thus aimed at providing real support to young scholars who are examining legal-geographical themes and questions.
+
+#### Programme
+
+The 4-hour workshop will be organised as an event within the First Annual Critical Geography Conference (on 21 February 2024). It will have an interactive format to facilitate communication and debates between PhD students, who are expected to engage in active participation before, during, and after the workshop. The detailed programme of the workshop will be circulated following the selection of the candidates.
+
+#### How to apply
+
+To apply for a place in the workshop, please submit the following documents to <daniela.morpurgo@polito.it> and [matteo.nicolini@univr.it](http://matteo.nicolini@univr.it) by 15 October 2013:
+
+-   Abstract of the doctoral thesis (max. 500 words); 
+
+-   PhD program in where the candidate is currently enrolled;
+
+-   Essay (3,000-3,500 words) where the candidate must clearly state: the research question(s); main topics and arguments; the structure of the research; the proposed methodology to handle the topic; the state of the art; salient topics, arguments, and doubts they might want to discuss during the workshop; Candidates should also refer to the scale (geographical, legal, sociological, etc.) within which the research is being conducted.
+
+The applications will be assessed by the Steering Committee of the conference. The assessment of the essay will be based on the originality of the argument, the analytical approach, and references to academic literature on the topic.
+
+No fee is required to take part in the PhD workshop.
