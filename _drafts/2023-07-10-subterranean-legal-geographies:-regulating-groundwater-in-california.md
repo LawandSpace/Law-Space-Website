@@ -46,11 +46,11 @@ The problem with regulatory alchemy, of course, is that it is both over- and und
 
 As we look to a future with less Colorado river in California and [the booms and busts of climate change](https://www.theatlantic.com/science/archive/2023/01/california-storms-drought-flooding-climate-extremes/672697/), large-scale water projects like Cadiz will likely only become more popular. As scholars, we'll have to pay attention not only to the optics of the projects, but their regulatory documents, and how to reconsider EIS processes so that impacts are accounted for properly.
 
-For more information (something like that)
+For more information
 ------------------------------------------
 
-Blomquist, William. Dividing the Waters: Governing Groundwater in Southern California. San Francisco: ICS, 1992.
+1. Blomquist, William. Dividing the Waters: Governing Groundwater in Southern California. San Francisco: ICS, 1992.
 
-Hundley, Norris. The Great Thirst: Californians and Water -a History. Rev. ed. Berkeley: University of California Press, 2001.
+2. Hundley, Norris. The Great Thirst: Californians and Water -a History. Rev. ed. Berkeley: University of California Press, 2001.
 
-Sizek, Julia. "Regulatory Alchemy: How the Water Cycle Becomes Capital in the California Desert." Antipode n/a, no. n/a. Accessed April 19, 2023. <https://doi.org/10.1111/anti.12942>.
+3. Sizek, Julia. "Regulatory Alchemy: How the Water Cycle Becomes Capital in the California Desert." Antipode n/a, no. n/a. Accessed April 19, 2023. <https://doi.org/10.1111/anti.12942>.
