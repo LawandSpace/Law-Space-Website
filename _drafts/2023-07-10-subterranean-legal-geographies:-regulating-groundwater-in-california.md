@@ -4,6 +4,7 @@ image:
 categories: [articles]
 tag: 
 author: "Julia Sizek"  
+image: /uploads/2023-07-10/banner.jpg
 ---
 It will come as no surprise that cities in Southern California depend on water that originates far away. But a new change to the [Colorado River compact](https://www.nytimes.com/2023/05/22/climate/colorado-river-deal.html), an agreement that divides the Colorado River's water among the states that border it, threatens a quarter of Southern California's water supply, driving residents' source of water---as well as legal battles over access to this water---underground.
 
@@ -12,6 +13,8 @@ Even in good times, groundwater, or water underneath the land's surface, supplie
 As legal geographers have argued, water is a slippery thing to govern and regulate. Whether on the high seas of international waters or along rivers and creeks, water confounds easy commodification and regulation. This is profoundly true than for aquifers that contain groundwater, which are hidden underground and often illegible to those above, leading [scholars](https://www.tandfonline.com/doi/abs/10.1080/07900627.2012.642238?casa_token=YoUrDSdHoBkAAAAA:wJHzxdVjZKYaVXI6isMVA4zEEtzPpwYXpH1W_DTJhHmjphYKBqIR2jCo2lNDnGy0TXSo6Ok9dlXMCwM) and [water managers](https://www.unesco.org/en/articles/groundwater-invisible-resource) alike to refer to it as an "invisible resource".
 
 The search for new sources of water has (re)materialized in the Cadiz Project, a once-dead, controversial groundwater project that proposes to take groundwater from an aquifer deep in the Mojave desert and pipe it more than 200 miles to California's coast. The project is often told as a Chinatown-style tale of a countryside drained by a city, in this case Los Angeles. Opponents charge that fossil water, likely deposited during the last ice age, [should not be taken out now](https://www.theatlantic.com/science/archive/2023/01/cadiz-farms-fossil-water/671652/), while proponents[  ](https://www.latimes.com/opinion/letters-to-the-editor/story/2021-12-30/californians-need-better-access-to-clean-water-cadiz-can-help)see groundwater as a [sound investment for California's future](https://www.latimes.com/opinion/letters-to-the-editor/story/2021-12-30/californians-need-better-access-to-clean-water-cadiz-can-help).
+
+{% include image.html img="/uploads/2023-07-10/image.png" lightbox="true" alt="Alt for image" caption="Current Basin Prioritization" %}
 
 Who determines how and when water can be taken out?
 

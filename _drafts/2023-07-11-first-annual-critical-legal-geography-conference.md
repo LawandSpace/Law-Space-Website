@@ -3,8 +3,9 @@ title: First Annual Critical Legal Geography Conference
 image: 
 categories: [conferences]
 tag: 
-author: "Austin Kocher"  
+author: "Francesco Chiodelli"  
 description: (Torino, Italy, 21-23 February 2024)
+image: /uploads/2023-07-11/Social-Media-Images.png
 ---
 
 ## Call for Proposals/Sessions

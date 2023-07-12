@@ -1,12 +1,9 @@
 ---
 title:          Julia Sizek
-username:       "Shoukia van Beek"
-featured:       true
-image:          /uploads/profilepics/shoukiavanbeek.jpg
-bio:            Ph.D. student at the University of Victoria.
-email:          shoukia@uvic.ca
-website:        https://blogs.ubc.ca/shoukia/
-twitter:        https://twitter.com/Shoukia
+username:       "Julia Sizek"
+featured:       false
+image:          /uploads/profilepics/julia.jpeg
+twitter:        https://twitter.com/juliasizek?lang=en
 ---
 
-Shoukia van Beek (she/her) is a settler-scholar and graduate student at the University of Victoria, on W̱SÁNEĆ & Lək̓ʷəŋən territories. Shoukia was named after her late grandmother, a Frisian-Dutch immigrant, whose ferocity, compassion, and caring ways shaped Shoukia’s sense of self and community. Her lessons and love continue to inform Shoukia’s interests, worldview, and ultimately, her work. Shoukia’s research examines how borders, and their associated practices, function as a mechanism of settler-colonialism. Her work is rooted in, and takes place at the intersection of, literatures and theories of political ecology, border studies, and Indigenous sovereignty—actively centring an anti-colonial, anti-capitalist, and abolitionist legal-geographic analysis and epistemological commitment.
+Julia Sizek is the Content Curator for Social Science Matrix and the host of the Matrix Podcast. She earned a PhD from the UC Berkeley Department of Anthropology. Her dissertation, “The Checkerboarded Desert,” examined how land fails to become property in the California desert. Drawing on political ecology, legal geography, and Native American and Indigenous Studies, her research shows the complexities of practicing sacred site protection and environmental conservation in a region often considered to be a wasteland. Her other writing on California history and environment has been featured in Boom!, KCET, and Bay Nature. 
