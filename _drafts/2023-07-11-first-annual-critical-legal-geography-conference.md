@@ -42,7 +42,7 @@ In selecting abstracts, we will make every effort to reflect diverse perspective
 - informality/illegality
 
 #### Deadlines
-Please send reflections on the keywords or a panel proposal to <giulia.massenz@polito.it> and <francesco.chiodelli@unito.it>  by 15 October 2023. We will respond to all submissions by 15 November 2023.
+Please send reflections on the keywords or a panel proposal to <giulia.massenz@polito.it> and <francesco.chiodelli@unito.it>  by 15 October 2023. We will respond to all submissions by __15 November 2023__.
 
 __Date:__ 21-13 February 2024 <br>
 
@@ -60,7 +60,7 @@ _The conference is supported by:_
 
 [FULL](https://full.polito.it/) -- Future Urban Legacy Lab of the Polytechnic of Turin
 
-## PhD Workshop "Explorations in Critical Legal Geographies"
+## PhD Workshop “Explorations in Critical Legal Geographies”
 
 The workshop brings together 15 PhD students with a variety of backgrounds (legal, geographical, political, sociological, anthropological, urban studies, and so on), whose doctoral thesis speaks to critical legal-geographical debates. The workshop offers participants a forum to contribute to their research development in a cross/transdisciplinary manner and opportunity to create synergies across the legal-geographical spectrum.
 
@@ -76,7 +76,7 @@ The 4-hour workshop will be organised as an event within the First Annual Critic
 
 #### How to apply
 
-To apply for the workshop, please submit the following to <daniela.morpurgo@polito.it> and <matteo.nicolini@univr.it> by 15 October 2013:
+To apply for the workshop, please submit the following to <daniela.morpurgo@polito.it> and <matteo.nicolini@univr.it> by __15 October 2013__:
 
 -   Abstract of the doctoral thesis (max. 500 words); 
 
