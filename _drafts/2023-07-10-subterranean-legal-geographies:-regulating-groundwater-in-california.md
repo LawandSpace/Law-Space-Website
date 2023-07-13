@@ -14,8 +14,6 @@ As legal geographers have argued, water is a slippery thing to govern and regula
 
 The search for new sources of water has (re)materialized in the Cadiz Project, a once-dead, controversial groundwater project that proposes to take groundwater from an aquifer deep in the Mojave desert and pipe it more than 200 miles to California's coast. The project is often told as a Chinatown-style tale of a countryside drained by a city, in this case Los Angeles. Opponents charge that fossil water, likely deposited during the last ice age, [should not be taken out now](https://www.theatlantic.com/science/archive/2023/01/cadiz-farms-fossil-water/671652/), while proponents[  ](https://www.latimes.com/opinion/letters-to-the-editor/story/2021-12-30/californians-need-better-access-to-clean-water-cadiz-can-help)see groundwater as a [sound investment for California's future](https://www.latimes.com/opinion/letters-to-the-editor/story/2021-12-30/californians-need-better-access-to-clean-water-cadiz-can-help).
 
-{% include image.html img="/uploads/2023-07-10/image.png" lightbox="true" alt="Alt for image" caption="Current Basin Prioritization" %}
-
 Who determines how and when water can be taken out?
 
 While some might expect scientists to determine how to divide the waters, it is actually a regulatory process that often plays out far from the public eye.
@@ -23,6 +21,8 @@ While some might expect scientists to determine how to divide the waters, it is 
 Historically, these decisions about how much water should be taken out only happens after an overpumping crisis. In other words, the decision is made only after one landowner sues another, after the groundwater table has dropped too much. The court then adjudicates the groundwater between overlying owners, assigning each landowner a right to pump based on the percentage of land that they own on top of the aquifer.
 
 Perhaps unsurprisingly, this crisis-to-adjudication pipeline is not the best way to manage groundwater. In 2014, a new solution was introduced in the form of the [Sustainable Groundwater Management Act (SGMA)](https://water.ca.gov/programs/groundwater-management/sgma-groundwater-management), which forces groundwater users in already overdrafted areas need to bring their use to a sustainable level---what is often called "safe yield"--by 2040 . In some areas like the agricultural Central Valley, however, any solution might already be too late.
+
+{% include image.html img="/uploads/2023-07-10/image.png" lightbox="true" alt="Alt for image" caption="Current Basin Prioritization" %}
 
 Not everyone is subject to SGMA, though. Because the aquifer under the dry lakebed Cadiz owns hasn't been overpumped yet, the Cadiz area doesn't have to follow the new rules. The rules for Cadiz are like the rules in the old system---wait until someone sues. And since the federal government is the other major landowner in this area, it's likely that Cadiz will be able to pump as much as they want until something goes catastrophically wrong.
 
