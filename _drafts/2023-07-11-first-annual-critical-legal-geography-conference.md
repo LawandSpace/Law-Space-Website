@@ -7,7 +7,7 @@ description: (Torino, Italy, 21-23 February 2024)
 image: /uploads/2023-07-11/Social-Media-Images.png
 ---
 
-## Call for Proposals/Sessions
+## Call for Abstracts and Sessions
 
 The first critical legal geography conference brings together transdisciplinary scholars to discuss the mutual constitution of space and law, broadly conceived. The conference in February 2024 (in Turin, Italy) will be the first of a series of annual meetings on critical legal geography.
 
