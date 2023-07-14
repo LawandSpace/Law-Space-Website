@@ -87,3 +87,16 @@ To apply for the workshop, please submit the following to <daniela.morpurgo@poli
 Applications will be assessed by the Steering Committee of the conference. The assessment of the essay will be based on the originality of the argument, the analytical approach, and references to academic literature on the topic. 
 
 No fee is required to take part in the PhD workshop.
+
+<div class="inline-button">
+    <a href="/uploads/pdfs/First_Annual_Critical_Legal_Geography_Conference_and_PhD_workshop_CALLDEF.pdf">
+        <button class="follow-link">
+            Download PDF
+        </button>
+    </a>
+    <a href="https://storymaps.arcgis.com/collections/28a2947426a149e7937c744051f2d578">
+        <button class="follow-link">
+            Confrence Link
+        </button>
+    </a>
+</div>
