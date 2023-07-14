@@ -1,7 +1,7 @@
 ---
 title: First Annual Critical Legal Geography Conference
 categories: [conferences]
-tag: 
+tag: [featured]
 author: "Francesco Chiodelli"  
 description: (Torino, Italy, 21-23 February 2024)
 image: /uploads/2023-07-11/Social-Media-Images.png
