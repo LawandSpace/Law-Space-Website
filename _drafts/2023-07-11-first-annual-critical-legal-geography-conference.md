@@ -88,15 +88,5 @@ Applications will be assessed by the Steering Committee of the conference. The a
 
 No fee is required to take part in the PhD workshop.
 
-<div class="inline-button">
-    <a href="/uploads/pdfs/First_Annual_Critical_Legal_Geography_Conference_and_PhD_workshop_CALLDEF.pdf">
-        <button class="follow-link">
-            Download PDF
-        </button>
-    </a>
-    <a href="https://storymaps.arcgis.com/collections/28a2947426a149e7937c744051f2d578">
-        <button class="follow-link">
-            Confrence Link
-        </button>
-    </a>
-</div>
+[Download PDF of the call for abstracts and papers](/uploads/pdfs/First_Annual_Critical_Legal_Geography_Conference_and_PhD_workshop_CALLDEF.pdf).
+[See the announcement here](https://storymaps.arcgis.com/collections/28a2947426a149e7937c744051f2d578).
