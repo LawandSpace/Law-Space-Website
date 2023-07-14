@@ -66,7 +66,7 @@ The workshop brings together 15 PhD students with a variety of backgrounds (lega
 
 #### Themes and rationale
 
-This workshop is conceived as a meeting to reflect on the methodologies, discourses, theories, and practices characterising the legal-geographical entanglement. This workshop is an integral part of the First Annual Critical Legal Geography Conference; therefore, all the participants selected for the workshop are also encouraged to submit to (or take part in) the conference. 
+This workshop is conceived as a meeting to reflect on the methodologies, discourses, theories, and practices characterising the legal-geographical entanglement. This workshop is an integral part of the First Annual Critical Legal Geography Conference; therefore, all the participants selected for the workshop are also encouraged to submit to (or take part in) the conference.
 
 The aim of the workshop is to explore the main topics of the conference (as listed above) by focusing on the research methodologies and design. The workshop is thus aimed at providing support and training to early career scholars who are examining legal-geographical themes and questions.
 
@@ -78,13 +78,13 @@ The 4-hour workshop will be organised as an event within the First Annual Critic
 
 To apply for the workshop, please submit the following to <daniela.morpurgo@polito.it> and <matteo.nicolini@univr.it> by __15 October 2013__:
 
--   Abstract of the doctoral thesis (max. 500 words); 
+- Abstract of the doctoral thesis (max. 500 words);
 
--   PhD program where the candidate is currently enrolled;
+- PhD program where the candidate is currently enrolled;
 
--   Essay (3,000-3,500 words) where the candidate must clearly state: the research question(s); main topics and arguments; the structure of the research; the proposed methodology; the state of the art; salient topics, arguments, and doubts they might want to discuss during the workshop; Candidates should also refer to the scale (geographical, legal, sociological, etc.) within which the research is being conducted.
+- Essay (3,000-3,500 words) where the candidate must clearly state: the research question(s); main topics and arguments; the structure of the research; the proposed methodology; the state of the art; salient topics, arguments, and doubts they might want to discuss during the workshop; Candidates should also refer to the scale (geographical, legal, sociological, etc.) within which the research is being conducted.
 
-Applications will be assessed by the Steering Committee of the conference. The assessment of the essay will be based on the originality of the argument, the analytical approach, and references to academic literature on the topic. 
+Applications will be assessed by the Steering Committee of the conference. The assessment of the essay will be based on the originality of the argument, the analytical approach, and references to academic literature on the topic.
 
 No fee is required to take part in the PhD workshop.
 
