@@ -18,13 +18,13 @@ Who determines how and when water can be taken out?
 
 While some might expect scientists to determine how to divide the waters, it is actually a regulatory process that often plays out far from the public eye.
 
-Historically, these decisions about how much water should be taken out only happens after an overpumping crisis. In other words, the decision is made only after one landowner sues another, after the groundwater table has dropped too much. The court then adjudicates the groundwater between overlying owners, assigning each landowner a right to pump based on the percentage of land that they own on top of the aquifer.
+Historically, these decisions about how much water should be taken out only happens after an overpumping crisis. In other words, the decision is made only after one landowner sues another, after the groundwater table has dropped too much. The court then adjudicates the groundwater between overlying owners, which involves assigning each landowner a right to pump a certain amount of water based on the percentage of land that they own on top of the aquifer.
 
 Perhaps unsurprisingly, this crisis-to-adjudication pipeline is not the best way to manage groundwater. In 2014, a new solution was introduced in the form of the [Sustainable Groundwater Management Act (SGMA)](https://water.ca.gov/programs/groundwater-management/sgma-groundwater-management), which forces groundwater users in already overdrafted areas to bring their use to a sustainable level---what is often called "safe yield"---by 2040 . In some areas like the agricultural Central Valley, however, any solution might already be too late.
 
 {% include image.html img="/uploads/2023-07-10/image.png" lightbox="true" alt="Alt for image" caption="Current Basin Prioritization under SGMA." %}
 
-Not everyone is subject to SGMA, though. Because the aquifer under the dry lakebed Cadiz owns hasn't been overpumped yet, the Cadiz area doesn't have to follow the new rules. The rules for Cadiz are like the rules in the old system---wait until someone sues. And since the federal government is the other major landowner in this area, it's likely that Cadiz will be able to pump as much as they want until something goes catastrophically wrong.
+Not everyone is subject to SGMA, though. Because the aquifer under the dry lakebed Cadiz owns has not been overpumped yet, the Cadiz area does not have to follow the new rules. The rules for Cadiz are like the rules in the old system---wait until someone sues. And since the federal government is the other major landowner in this area, it's likely that Cadiz will be able to pump as much as they want until something goes catastrophically wrong.
 
 But before they start, they need to pass a regulatory hurdle: the California Environmental Quality Act, or CEQA, which regulates any development project on private lands, including water pumping schemes. The Santa Margarita Water District, who would be one of the major recipients of Cadiz's water, sponsored the application.
 
@@ -46,13 +46,12 @@ The problem with regulatory alchemy, of course, is that it is both over- and und
 
 As we look to a future with less Colorado river in California and [the booms and busts of climate change](https://www.theatlantic.com/science/archive/2023/01/california-storms-drought-flooding-climate-extremes/672697/), large-scale water projects like Cadiz will likely only become more popular. As scholars, we'll have to pay attention not only to the optics of the projects, but their regulatory documents, and how to reconsider EIS processes so that impacts are accounted for properly.
 
-For more information
-------------------------------------------
+See Julia's full article online here: Sizek, Julia. (2023) "Regulatory Alchemy: How the Water Cycle Becomes Capital in the California Desert." *Antipode*. <https://doi.org/10.1111/anti.12942>.
+
+## For more information on water law and governance:
 
 1. Blomquist, W. (1992.) *Dividing the Waters: Governing Groundwater in Southern California*. ICS Press.
 
 2. Hundley, N. (2001.) *The Great Thirst: Californians and Water---a History.* University of California Press.
-
-3. Sizek, Julia. (forthcoming) "Regulatory Alchemy: How the Water Cycle Becomes Capital in the California Desert." *Antipode*. Accessed April 19, 2023. <https://doi.org/10.1111/anti.12942>.
 
 4. Bakker, K. (2000.) “Privatizing Water, Producing Scarcity: The Yorkshire Drought of 1995.” *Economic Geography* 76(1):4–27. <https://doi.org/10.1111/j.1944-8287.2000.tb00131.x>.
