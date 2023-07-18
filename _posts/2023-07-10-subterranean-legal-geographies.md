@@ -1,8 +1,7 @@
 ---
 title: "Subterranean Legal Geographies: Regulating Groundwater in California"
-image: 
 categories: [articles]
-tag: 
+tag: [featured]
 author: "Julia Sizek"  
 image: /uploads/2023-07-10/banner.jpg
 ---
