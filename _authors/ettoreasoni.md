@@ -1,7 +1,7 @@
 ---
 title:          Ettore Asoni
 username:       "Ettore Asoni"
-featured:       true
+featured:       false
 image:          /uploads/profilepics/ettoreasoni.jpg
 bio:            
 email:          

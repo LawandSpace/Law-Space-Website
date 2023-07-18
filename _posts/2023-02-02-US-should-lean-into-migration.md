@@ -2,7 +2,7 @@
 title: It’s Time to Stop Trying to “Fix” Migration and Lean Into It
 image: /uploads/2023-02-02-post/latinamerica.jpg
 categories: [articles]
-tag: featured
+tag: 
 author: "Michael Dalton McCarville"
 ---
 

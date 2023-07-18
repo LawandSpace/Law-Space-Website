@@ -1,7 +1,7 @@
 ---
 title:          Francesco Chiodelli
 username:       "Francesco Chiodelli"
-featured:       false
+featured:       true
 image:          /uploads/profilepics/franchiodelli.jpeg
 twitter:        https://twitter.com/franchiodelli?lang=en
 website:        https://www.lessisless.it

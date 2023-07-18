@@ -1,7 +1,7 @@
 ---
 title:          "Michael Dalton McCarville"
 username:       Michael Dalton McCarville
-featured:       true
+featured:       false
 image:          /uploads/profilepics/michaeldaltonmccarville.jpg
 email:          
 website:        

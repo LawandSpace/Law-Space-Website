@@ -1,7 +1,7 @@
 ---
 title:          Brittany Lauren Wheeler
 username:       "Brittany Lauren Wheeler"
-featured:       true
+featured:       false
 image:          /uploads/profilepics/brittanylauren_hawaii.jpg
 linkedin:       https://www.linkedin.com/in/brittany-lauren-wheeler-1b933b3a/
 # twitter:        https://twitter.com/ackocher/

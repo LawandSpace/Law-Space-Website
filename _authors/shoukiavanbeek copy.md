@@ -1,7 +1,7 @@
 ---
 title:          Shoukia van Beek
 username:       "Shoukia van Beek"
-featured:       true
+featured:       false
 image:          /uploads/profilepics/shoukiavanbeek.jpg
 bio:            Ph.D. student at the University of Victoria.
 email:          shoukia@uvic.ca

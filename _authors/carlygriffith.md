@@ -1,7 +1,7 @@
 ---
 title:          Carly Griffith
 username:       "Carly Griffith"
-featured:       true
+featured:       false
 image:          /uploads/profilepics/carlygriffith.jpg
 bio:            Ph.D. Candidate at the University of Wisconsin-Madison Department of Geography.
 email:          cgriffith5@wisc.edu
