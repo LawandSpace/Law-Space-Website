@@ -375,12 +375,12 @@ $dragover-box-shadow:                            0 0 20px rgba(100,100,100,0.3) 
  */
 
 .uk-logo {
-    font-size: 35px !important ;
-    font-weight: 400 !important;
+    font-size: 40px !important ;
+    font-weight: 500 !important;
     font-family: 'EB Garamond', serif;
     font-family: 'Libre Baskerville', serif;
     font-family: 'Merriweather', serif;
-    font-family: 'Playfair Display', serif;
+    font-family: 'lato', serif;
 
     @if(mixin-exists(hook-logo)) {@include hook-logo();}
 }

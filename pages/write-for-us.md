@@ -5,7 +5,7 @@ permalink: /write-for-us/
 image: /uploads/generalimages/write-for-us.jpg
 ---
 
-Law & Space (un)Journal accepts a wide variety of short blog-style articles written with academic integrity but intended for a broad audience.
+Law & Space accepts a wide variety of short blog-style articles written with academic integrity but intended for a broad audience.
 
 We are particularly interested in the following: 
 - short summaries of ongoing research projects 

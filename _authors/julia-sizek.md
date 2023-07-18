@@ -1,7 +1,7 @@
 ---
 title:          Julia Sizek
 username:       "Julia Sizek"
-featured:       false
+featured:       true
 image:          /uploads/profilepics/julia.jpeg
 twitter:        https://twitter.com/juliasizek?lang=en
 ---
