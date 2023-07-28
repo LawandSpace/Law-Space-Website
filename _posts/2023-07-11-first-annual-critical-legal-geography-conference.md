@@ -9,6 +9,10 @@ image: /uploads/2023-07-11/Social-Media-Images.png
 
 **Call for Abstracts and Sessions.** The first critical legal geography conference brings together transdisciplinary scholars to discuss the mutual constitution of space and law, broadly conceived. The conference in February 2024 (in Turin, Italy) will be the first of a series of annual meetings on critical legal geography.
 
+Update (07/28/2023): The Castello del Valentino in Torino will host the First Annual Critical Legal Geography Conference.
+
+![](/uploads/2023-07-11/torino.jpeg)
+
 This open call intends to create a wide space for application and interpretation of critical legal geography. We do not intend to be prescriptive concerning its method, theory, object, or approach. The conference will be an inclusive and dialogical meeting, with a relaxed discussion and exchange of ideas. 
 
 Those interested in participating have two options: 
