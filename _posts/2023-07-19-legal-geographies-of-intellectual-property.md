@@ -2,7 +2,7 @@
 title: Call for Chapters in Legal Geographies of Intellectual Property
 image: /uploads/2023-07-19-call-for-chapters/mikolaj-unsplash.jpg
 categories: [articles]
-tag: [spotlight]
+tag: 
 author: "Jenny Kanellopoulou"
 ---
 

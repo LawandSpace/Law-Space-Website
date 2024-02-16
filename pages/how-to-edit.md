@@ -1,7 +1,10 @@
 ---
-permalink: /how-to-edit/
+layout: page
+title: Edit for Us
+permalink: /edit-for-us/
+image: /uploads/generalimages/edit-for-us.jpg
 ---
-This file provides an outline of documentation specifically for journal editors.
+This page provides an outline of documentation specifically for journal editors who are using Jekyll and Github to compile the website.
 
 # Preliminary Remarks
 
