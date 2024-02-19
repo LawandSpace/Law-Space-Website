@@ -10,7 +10,7 @@ image: /uploads/2024-02-16-protecting-a-sacred-river/picture2.jpg
 The Pilmaiquén River is named after the swallow. Like the bird, the turquoise river makes a few quick and sporadic turns as it winds its way down from the Andean mountains toward the Pacific Ocean. In southern Chile, the Mapuche-Williche people hold the river as sacred to their culture. On We tripantu, the Mapuche new year which occurs on Austral winter solstice (June), the spirits of those who have died that year are known to travel up to the Wenumapu (the land above) when the river unites with the river of the sky, the Milky Way. Until We tripantu comes each year, these spirits live on animals in the river like birds and fish. 
 
 <p align="center">
-  <img src="/uploads/2024-02-05-protecting-a-sacred-river/picture0.png" />
+  <img src="/uploads/2024-02-16-protecting-a-sacred-river/picture0.png" />
 </p>
 *Machil Millaray collects healing water in the Pilmaiquén watershed. Photo by [Pablo Piovano](http://pablopiovano.com/).*
 
@@ -38,16 +38,16 @@ Hydropower development in Mapuche territory continues to infringe upon their rig
 
 Hydropower development in Mapuche territory continues to infringe upon their rights as Indigenous people.  I have written about the spatial injustices and regulatory issues for small hydropower development in a [2019 article in *Energy Research and Social Science*](https://www.sciencedirect.com/science/article/pii/S2214629618310065), mapped hydropower conflicts in relation to historical dispossession in a 2021 article in Geoforum, and analyzed the Pilmaiquén - Statkraft conflict with colleagues in a 2021 article in the Journal of Latin American Geography.  Felipe Guerra, a co-author, lawyer, and long-term collaborator of the territory, refers to the “epistemic injustice” in how the law is interpreted and applied to sacred sites in Indigenous territories for economic development projects including this case, in his doctoral thesis and forthcoming article in the *Journal of Legal Pluralism*. 
 
-![](/uploads/2024-02-05-protecting-a-sacred-river/picture1.jpg)
+![](/uploads/2024-02-16-protecting-a-sacred-river/picture1.jpg)
 *Machi Millaray and Saami youth leader Ellen Nystad in Oslo, Norway in May 2023. Photo by [Pablo Piovano](http://pablopiovano.com/).*
 
 Conflicts over Indigenous rights and their ancestral land use are increasingly serving as checks for environmental protection and biodiversity safeguarding. Yet Indigenous peoples’ protection is often misinterpreted by outside actors.  In Chile, this could begin with questioning the continuous criminalization of the Mapuche Pueblo. The commonplace way Chilean national news tells stories of conflict in Mapuche territories obscures their role in many cases as protectors of nature and defenders of sacred sites.
 
 In her speech in Oslo, the Machi Millaray explained that their sacred ceremonial site is an *amunkowe* (movement of water) of water that flows including rivers and streams where drops of water unite intangible dimensions. This helps explain that water and land cannot be divided, thus, the Machi indicated that the ruka (house) of Ngen Kintuantü implies direct connections with the Wenumapu (land above). Chile’s current legal system has shortcomings for recognizing Mapuche knowledge and geography, in part due to its privatization of water use rights. 
 
-![](/uploads/2024-02-05-protecting-a-sacred-river/picture3.png)*Map by Sergio Iacobelli, Sarah Kelly, and Julio Muñoz in conversation with Machi Millaray and the traditional organization Aylla Rewe Kintuantü. This map was part of an expert report that I wrote for a case in the Second Environmental Court of Chile.*
+![](/uploads/2024-02-16-protecting-a-sacred-river/picture3.png)*Map by Sergio Iacobelli, Sarah Kelly, and Julio Muñoz in conversation with Machi Millaray and the traditional organization Aylla Rewe Kintuantü. This map was part of an expert report that I wrote for a case in the Second Environmental Court of Chile.*
 
-![](/uploads/2024-02-05-protecting-a-sacred-river/picture4.jpg)
+![](/uploads/2024-02-16-protecting-a-sacred-river/picture4.jpg)
 *Mapuche-Williche and Saami leaders in Saepmie territory, May 2023. Photo by [Pablo Piovano](http://pablopiovano.com/).*
 
 In September 2023, Machi Millaray made a second trip to Norway to file a complaint with Norway’s Office of Economic Co-operation and Development regarding its guidelines for multinational companies and Statkraft’s alleged human rights infringements. The outcomes of this filing are still unknown. Meanwhile, construction continues in the temperate rainforests of southern Chile and opposition to the project now includes over 150 Mapuche-Williche communities. It is in this ancestral territory that the Mapuche conserve their *lawen* (medicinal plants), among other aspects of life and ancient wisdom. In this era of rapid climate change, these dialogues do not merit anything less than just, transparent, and equitable spaces.
