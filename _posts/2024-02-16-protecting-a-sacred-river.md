@@ -22,7 +22,7 @@ With few options left, in May and September 2023, Mapuche-Williche leaders trave
 
 > We do not want their [Statkraft’s] progress of misery, because for us money cannot be eaten. Because of the lawen (medicinal plants), the medicine is in our rivers. Because our history runs with the water. And because through water, as a vital element, we spiritually return to this space of the Willimapu territory.
 >
-> -- Machi Millaray, Oslo May 2022
+> -- Machi Millaray, Oslo (May 2023)
 
 Machi Millaray, one of the ancestral authorities who traveled to Norway, explained that these hydropower projects are “green colonialism” and an “ecocide” of their lifeworld. Green colonialism refers to how efforts to make environmentally beneficial change – like building renewable energy – can reinforce historical patterns of domination, dispossession, and cultural harm to Indigenous people, see the work of [Susanna Normann](https://onlinelibrary.wiley.com/doi/full/10.1002/jcop.22422). 
 
@@ -35,8 +35,6 @@ Over nearly ten years, I have listened to dialogues between Mapuche-Williche lea
 Yet in transnational conflicts, external actors often determine the terms of dialogue. When Statkraft purchased the projects, it opted not to conduct an Indigenous Consultation. New Indigenous communities have been formed over the course of the conflict via outside negotiations undertaken by the company, threatening ancestral ceremonies and leadership. With weak Chilean regulation, Statkraft has continued to set the terms of recognition.  This decision, and their continued strategies of targeted negotiations and misinterpretation of Mapuche-Wiilliche cosmology, enable a harmful project to proceed.
 
 Hydropower development in Mapuche territory continues to infringe upon their rights as Indigenous people.  I have written about the spatial injustices and regulatory issues for small hydropower development in a [2019 article in *Energy Research and Social Science*](https://www.sciencedirect.com/science/article/pii/S2214629618310065), mapped hydropower conflicts in relation to historical dispossession in a [2021 article in *Geoforum*](https://www.sciencedirect.com/science/article/pii/S0016718521002992), and analyzed the Pilmaiquén - Statkraft conflict with colleagues in a [2021 article in the *Journal of Latin American Geography*](https://muse.jhu.edu/article/799596). Felipe Guerra, a co-author, lawyer, and long-term collaborator of the territory, refers to the “epistemic injustice” in how the law is interpreted and applied to sacred sites in Indigenous territories for economic development projects including this case, in his doctoral thesis and forthcoming article in the *Journal of Legal Pluralism*. 
-
-Hydropower development in Mapuche territory continues to infringe upon their rights as Indigenous people.  I have written about the spatial injustices and regulatory issues for small hydropower development in a [2019 article in *Energy Research and Social Science*](https://www.sciencedirect.com/science/article/pii/S2214629618310065), mapped hydropower conflicts in relation to historical dispossession in a 2021 article in Geoforum, and analyzed the Pilmaiquén - Statkraft conflict with colleagues in a 2021 article in the Journal of Latin American Geography.  Felipe Guerra, a co-author, lawyer, and long-term collaborator of the territory, refers to the “epistemic injustice” in how the law is interpreted and applied to sacred sites in Indigenous territories for economic development projects including this case, in his doctoral thesis and forthcoming article in the *Journal of Legal Pluralism*. 
 
 ![](/uploads/2024-02-16-protecting-a-sacred-river/picture1.jpg)
 *Machi Millaray and Saami youth leader Ellen Nystad in Oslo, Norway in May 2023. Photo by [Pablo Piovano](http://pablopiovano.com/).*
@@ -54,7 +52,7 @@ In September 2023, Machi Millaray made a second trip to Norway to file a complai
 
 ## Acknowledgements
 
-This is an adapted essay from an [op-ed publication](https://www.elciudadano.com/chile/donde-esta-la-cancha/08/31/) that I previously published in Chilean national and regional newspapers that was edited by journalist Mane Ossandón. The op-ed was published with the permission of the traditional organization Aylla Rewe Kintuantü.
+This is an adapted essay from an [op-ed publication](https://www.elciudadano.com/chile/donde-esta-la-cancha/08/31/) that I previously published in Chilean national and regional newspapers that was edited by journalist Mane Ossandón. The op-ed was published with the permission of the traditional organization Aylla Rewe Kintuantü. Another article about this case and its implications for energy justice is currently under review; thanks to our transnational group of authors who have informed my thinking on the case.
 
 ## For Further Reading
 
